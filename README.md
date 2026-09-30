@@ -1,5 +1,5 @@
  About the Project
-GazeLink is an assistive communication application designed to help people with limited mobility communicate using \*\*eye-gaze interaction\*\*.
+GazeLink is an assistive communication application designed to help people with limited mobility communicate using eye-gaze interaction.
 The application uses computer vision and eye-gaze tracking to allow users to interact with the system without relying on traditional mouse or keyboard input.
 
  Objective
